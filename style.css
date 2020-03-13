@@ -1,0 +1,42 @@
+.title {
+    text-align: center;
+}
+
+#search {
+    margin-top: 25px;
+    width: 66%;
+    margin-left: 250px;
+}
+
+#hero {
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://images2.alphacoders.com/988/988882.jpg);
+}
+
+#hero3 {
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/293/672/961/pixel-art-waterfall-artwork-digital-art-wallpaper-preview.jpg);
+}
+
+#hero4 {
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/500/198/463/pixel-art-digital-art-pixelated-pixels-wallpaper-preview.jpg);
+}
+
+#popular{
+    color: white;
+}
+
+#small {
+    margin-top: 25px;
+}
+
+p {
+    text-align: center;
+}
